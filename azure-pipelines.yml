@@ -7,8 +7,8 @@ trigger:
 - main
 
 pool:
-  #name: GARServer
-  vmImage: ubuntu-latest
+  name: GARServer
+  #vmImage: ubuntu-latest
 
 #steps:
 #- task: Maven@3
